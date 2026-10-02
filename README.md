@@ -6,6 +6,9 @@ usados por **órgãos de defesa agropecuária de 9 Estados brasileiros**.
 No dia a dia, desenvolvo e evoluo sistemas em produção, construo **APIs REST e WebServices** para integração
 entre sistemas e escrevo consultas e rotinas em **PostgreSQL**. Trabalho em equipe com GitLab, Kanban e pipelines de CI/CD.
 
+Na Agrodefesa de Goiás passei por **suporte, análise de sistemas e QA** antes de chegar ao desenvolvimento.
+Por isso penso no software de ponta a ponta: do requisito ao teste, ao deploy e a quem usa o sistema no dia a dia.
+
 📍 Goiânia/GO · aberto a vagas **remotas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wescaxeta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wescaxeta/)
