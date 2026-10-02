@@ -1,7 +1,7 @@
 ### Olá, eu sou o Weslley 👋
 
 Desenvolvedor **Full Stack com foco em backend PHP**. Desde 2023 trabalho com sistemas web de grande porte
-usados por **órgãos de defesa agropecuária de 9 estados brasileiros**.
+usados por **órgãos de defesa agropecuária de 9 Estados brasileiros**.
 
 No dia a dia, desenvolvo e evoluo sistemas em produção, construo **APIs REST e WebServices** para integração
 entre sistemas e escrevo consultas e rotinas em **PostgreSQL**. Trabalho em equipe com GitLab, Kanban e pipelines de CI/CD.
