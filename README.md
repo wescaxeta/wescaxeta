@@ -6,7 +6,10 @@ usados por **órgãos de defesa agropecuária de 9 estados brasileiros**.
 No dia a dia, desenvolvo e evoluo sistemas em produção, construo **APIs REST e WebServices** para integração
 entre sistemas e escrevo consultas e rotinas em **PostgreSQL**. Trabalho em equipe com GitLab, Kanban e pipelines de CI/CD.
 
-📍 Goiânia/GO · aberto a vagas **remotas** · ✉️ caxetaw@gmail.com
+📍 Goiânia/GO · aberto a vagas **remotas**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wescaxeta-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wescaxeta/)
+[![E-mail](https://img.shields.io/badge/E--mail-caxetaw%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:caxetaw@gmail.com)
 
 ---
 
