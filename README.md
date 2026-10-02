@@ -22,6 +22,7 @@ Por isso penso no software de ponta a ponta: do requisito ao teste, ao deploy e 
 - **Frontend:** JavaScript · AJAX · HTML5 · CSS
 - **Dados:** PostgreSQL · SQL (CTEs, window functions, tuning com `EXPLAIN ANALYZE`)
 - **DevOps:** Git/GitLab · Docker · CI/CD (GitLab CI, Jenkins, GitHub Actions)
+- **Também:** C# · .NET (ASP.NET Core, EF Core, xUnit)
 
 ---
 
@@ -29,7 +30,8 @@ Por isso penso no software de ponta a ponta: do requisito ao teste, ao deploy e 
 
 | Projeto | O que mostra |
 |---|---|
-| [**gta-integration-service**](https://github.com/wescaxeta/gta-integration-service) | Integração REST ↔ SOAP em Mezzio/Laminas: retry com backoff, idempotência, Problem Details e PostgreSQL |
+| [**gta-integration-service**](https://github.com/wescaxeta/gta-integration-service) | API em Mezzio/Laminas que integra um WebService **SOAP** e uma API **REST em .NET**: retry com backoff, idempotência, Problem Details e PostgreSQL |
+| [**vacinacao-api**](https://github.com/wescaxeta/vacinacao-api) | API em **.NET 10** (ASP.NET Core, EF Core, PostgreSQL) consumida pelo projeto acima, com testes xUnit + Testcontainers |
 | [**laravel-task-api**](https://github.com/wescaxeta/laravel-task-api) | API REST em Laravel 13 com autenticação Sanctum, testes com PHPUnit e Docker |
 | [**task-manager-frontend**](https://github.com/wescaxeta/task-manager-frontend) | SPA em JavaScript puro que consome a API acima, sem frameworks |
 | [**php-rh-engine**](https://github.com/wescaxeta/php-rh-engine) | Regras de RH (férias, diárias, afastamentos) em PHP 8.4, com PHPStan no nível max, value objects e máquina de estados |
